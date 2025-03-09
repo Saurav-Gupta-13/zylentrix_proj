@@ -40,10 +40,6 @@ This Flutter application fetches data from the [JSONPlaceholder API](https://jso
 ## Screenshot
 
 ### 📋 Data Display
-![Data Display](data_display.jpg)
+![Data Display](./assests/data_display.jpg)
 
-## License
-MIT License
 
----
-This project is designed to demonstrate API integration, asynchronous data handling, and UI responsiveness in Flutter.
